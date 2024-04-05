@@ -1,10 +1,45 @@
-# Node.js template
+# **Gerenciador de Tarefas TO DO**
+Projeto da turma de ADS(Analise e Desenvovimento de Sistemas) da Universidade Unorte de São josè do rio preto São paulo.
 
-This is a Node.js project.
+Feito na IDE Online [CodeSandbox](https://codesandbox.io/), com o Professor Flavio Taparro e o(s) aluno(s):
+Vitor Tardivo.
 
-Add your [configuration](https://codesandbox.io/docs/projects/learn/setting-up/tasks) to optimize it for [CodeSandbox](https://codesandbox.io/p/dashboard).
+## **Feito com:**
+### Com as linguagens de programação: 
+- NodeJs, 
+- Typescript.
+    
+### Com o uso de arquivos em JSON para armazenar os dados sem um Banco de Dados.
 
-## Resources
+### Com o uso do Yarn e as dependencias: 
+#### *COM O NIVEL DE PERMISSÂO DEV:*
+- @types/cors,
+- @types/express,
+- nodemon,
+- typescript.
+#### *SEM O NIVEL DE PERMISSÂO DEV:*
+- cors,
+- express,
+- reflect-metadata,
+- ts-node.
 
-- [CodeSandbox — Docs](https://codesandbox.io/docs/learn)
-- [CodeSandbox — Discord](https://discord.gg/Ggarp3pX5H)
+## **Sobre:**
+É uma aplicação que é possivel fazer anotações de tarefas do dia a dia e podendo: Criar, Ver, Atualizar e Apagar(CRUD).
+
+### Com as informações de:
+1. ID,
+2. NOME,
+3. DESCRIÇÂO,
+4. STATUS,
+5. FEITO.
+
+### ID 
+É uma identificação para poder saber qual é a Tarefa especifica e quando ela foi iniciada usando o Padrão(Unix epoch).
+### NOME 
+É como se fosse um titulo da Tarefa.
+### DESCRIÇÂO 
+É uma area onde se pode colocar informações amais sobre a Tarefa relevantes ou não.
+### STATUS 
+É uma forma de ver como esta indo o progresso da Tarefa se ela esta: A fazer, fazendo, Atrasado, Cocluido.
+### FEITO 
+É a confirmação de fato se esta finalizado a Tarefa como: Não feito, Feito.
