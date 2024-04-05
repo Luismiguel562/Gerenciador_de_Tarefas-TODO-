@@ -1,0 +1,23 @@
+{
+  "name": "pooTODO",
+  "version": "0.1.0",
+  "description": "Aula de desenvolvimento em Programcao Orientada a Objetos",
+  "main": "server.ts",
+  "scripts": {
+    "start": "nodemon src/server.ts"
+  },
+  "author": "Vitor de Souza Tardivo",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/cors": "2.8.17",
+    "@types/express": "4.17.21",
+    "nodemon": "^3.0.1",
+    "typescript": "5.3.3"
+  },
+  "dependencies": {
+    "cors": "2.8.5",
+    "express": "4.18.3",
+    "reflect-metadata": "0.2.2",
+    "ts-node": "10.9.2"
+  }
+}
