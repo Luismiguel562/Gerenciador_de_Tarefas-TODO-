@@ -33,13 +33,31 @@ Vitor Tardivo.
 4. STATUS,
 5. FEITO.
 
-### ID 
+#### ID 
 É uma identificação para poder saber qual é a Tarefa especifica e quando ela foi iniciada usando o Padrão(Unix epoch).
-### NOME 
+#### NOME 
 É como se fosse um titulo da Tarefa.
-### DESCRIÇÂO 
+#### DESCRIÇÂO 
 É uma area onde se pode colocar informações amais sobre a Tarefa relevantes ou não.
-### STATUS 
+#### STATUS 
 É uma forma de ver como esta indo o progresso da Tarefa se ela esta: A fazer, fazendo, Atrasado, Cocluido.
-### FEITO 
+#### FEITO 
 É a confirmação de fato se esta finalizado a Tarefa como: Não feito, Feito.
+
+### Separado em 5 aquivos:
+- package.json
+- tasks.json
+- server.ts
+- TaskRoute.ts
+- TaskModel.ts
+
+#### package.json
+É onde esta todas as informações configurações de dependencias versões descrição sobre da aplicação.
+#### tasks.json
+É onde esta as tarefas de fato, todas as informações dela.
+#### server.ts
+É onde a aplicação é iniciada atraves de um servidor Express.
+#### TaskRoute.ts
+É onde é criada as rotas para se acessar todas as suas funcionalidades atraves delas.
+#### TaskModel.ts
+É onde esta os modelos criados como a Classe Task o CRUD e todas as suas informações.
