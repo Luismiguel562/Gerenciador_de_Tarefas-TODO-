@@ -1,8 +1,9 @@
 # **Gerenciador de Tarefas TO DO**
-Projeto da turma de ADS(Analise e Desenvovimento de Sistemas) da Universidade Unorte de São josè do rio preto São paulo.
+Projeto da turma de ADS(Analise e Desenvovimento de Sistemas) da Universidade Unorte de São josé do rio preto São paulo.
 
 Feito na IDE Online [CodeSandbox](https://codesandbox.io/), com o Professor Flavio Taparro e o(s) aluno(s):
-Vitor Tardivo.
+
+Vitor Tardivo
 
 ## **Feito com:**
 ### Com as linguagens de programação: 
