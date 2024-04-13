@@ -1,5 +1,5 @@
 # **Gerenciador de Tarefas TO DO**
-Projeto da turma de ADS da Universidade Unorte de São josé do rio preto/São Paulo. 
+API Projeto da turma de ADS da Universidade Unorte de São josé do rio preto/São Paulo. 
 
 Feito na IDE Online [CodeSandbox](https://codesandbox.io/), com o Professor Flavio Taparro e o(s) aluno(s):
 
