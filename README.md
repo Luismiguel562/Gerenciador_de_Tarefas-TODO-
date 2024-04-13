@@ -1,9 +1,10 @@
 # **Gerenciador de Tarefas TO DO**
 API Projeto da turma de ADS da Universidade Unorte de São josé do rio preto/São Paulo. 
 
-Feito na IDE Online [CodeSandbox.com](https://codesandbox.io/), com o Professor Flavio Taparro e o(s) aluno(s):
+Feito na IDE Online [CodeSandbox.com](https://codesandbox.io/). 
 
-Vitor Tardivo
+*Autor(res) aluno(s):*
+- Vitor Tardivo
 
 ## **API Feito com:**
 ### Com as linguagens de programação: 
