@@ -4,7 +4,7 @@ API Projeto da turma de ADS da Universidade Unorte de São josé do rio preto/S�
 Feito na IDE Online [CodeSandbox.com](https://codesandbox.io/). 
 
 *Autor(res) aluno(s):*
-- Vitor Tardivo
+- Luis miguel
 
 ## **API Feito com:**
 ### Com as linguagens de programação: 
